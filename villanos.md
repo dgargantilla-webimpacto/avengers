@@ -2,3 +2,4 @@
 
 * Dr.Doom
 * Red Scull
+* Thanos
